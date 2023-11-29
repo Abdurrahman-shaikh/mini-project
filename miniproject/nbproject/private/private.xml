@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/azmi/NetBeansProjects/miniproject/web/WEB-INF/pages/ajaxdemo.jsp</file>
+            <file>file:/home/azmi/NetBeansProjects/miniproject/src/java/service/Country.java</file>
+            <file>file:/home/azmi/NetBeansProjects/miniproject/web/index.jsp</file>
+            <file>file:/home/azmi/NetBeansProjects/miniproject/src/java/controller/FrontController.java</file>
+            <file>file:/home/azmi/NetBeansProjects/miniproject/src/java/models/AjaxModel.java</file>
+            <file>file:/home/azmi/NetBeansProjects/miniproject/web/WEB-INF/pages/loginpage.jsp</file>
+            <file>file:/home/azmi/NetBeansProjects/miniproject/web/async.js</file>
+        </group>
+    </open-files>
+</project-private>
